@@ -1,0 +1,15 @@
+cover
+frontmatter:
+maketitle
+tableofcontents
+0_preface.md
+mainmatter:
+1_Introduction.md
+2_Operating_System_Structures.md
+3_Processes.md
+4_Threads.md
+5_Process_Synchronization.md
+6_CPU_Scheduling.md
+7_Deadlocks.md
+8_Main_Memory.md
+9_Virtual_Memory.md

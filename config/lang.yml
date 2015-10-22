@@ -1,0 +1,14 @@
+---
+chapter:
+  word: فصل 
+  order: standard     # Use 'reverse' to change 'Chapter 1' to '1 Chapter'
+section: بخش
+table: جدول
+figure: شکل
+fig: شکل
+aside: Box
+listing: لیست
+equation: تساوی
+eq: تساوی
+frontmatter: فهرست
+contents: فهرست

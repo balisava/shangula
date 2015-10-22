@@ -1,0 +1,18 @@
+/* Place custom styles here, scoped by the CSS id '#book' */
+/* To sync up PDF styles, edit custom.sty */
+/* Google for "LaTeX style files" to learn how to use custom.sty */
+
+
+body {
+    direction: rtl;
+}
+
+body #book {
+  width: 61em;
+  font-size: 18px;
+  font-family: Georgia, serif;
+  line-height: 1.5;
+  margin-right: 5em;
+  color: #070707;
+  margin-bottom: 20em;
+}
